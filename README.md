@@ -3,9 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/lauu_029" target="blank"><img src="https://img.shields.io/twitter/follow/lauu_029?logo=twitter&style=for-the-badge" alt="lauu_029" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lauu029](https://github.com/Lauu029)
+- 👨‍💻 All of my projects are available in this github page
+- 🎮 I also have some published games at [my itch.io page](https://laura-gomez-bodego.itch.io/)
 
-- 📫 How to reach me **lauragbodego@gmail.com**
+- 📫 You can reach me at **lauragbodego@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
